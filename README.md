@@ -1,11 +1,20 @@
-- 👋 Hi, I’m @KushalBhandari10
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on telegram
-- 📫 How to reach me @MrDangerousRx telegram id
-- ⚡ Fun fact: I decided to traain myself rather than going university
+# 👋 Hello, I'm Kushal Bhandari
 
-<!---
-KushalBhandari10/KushalBhandari10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🧠 Self-Taught Python Enthusiast | 💻 Automation & Data Analytics Explorer
+
+---
+
+- 👀 I’m deeply passionate about **programming and tech automation**
+- 🌱 Currently learning: `Python`, `Data Analysis`, `Web Scraping`, , `Automation` and `Data Science`  
+- 🤝 Always open to **collaborating on Telegram bots, data projects, or small tools**
+- 📫 Reach me on Telegram: [@MrDangerousRx](https://t.me/MrDangerousRx)
+- ⚡ Fun fact: I skipped university to train myself daily with **real projects, discipline, and focus**
+
+---
+
+### 🔧 Skills I'm Working On
+
+```python
+Languages: Python (core), SQL 
+Libraries: Pandas, NumPy, Matplotlib, Seaborn, Selenium, PyAutoGUI
+Tools: Jupyter Notebook, Git, VS Code
